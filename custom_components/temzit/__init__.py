@@ -12,7 +12,7 @@ from homeassistant.core import HomeAssistant
 from homeassistant.helpers.typing import ConfigType
 
 # The domain of your component. Should be equal to the name of your component.
-DOMAIN = "hello_world"
+DOMAIN = "temzit"
 
 
 def setup(hass: HomeAssistant, config: ConfigType) -> bool:
